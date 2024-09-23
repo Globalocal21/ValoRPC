@@ -4,7 +4,7 @@ import logging
 
 logger = logging.getLogger(__name__)
 
-client_id = 721690501379522600
+client_id = 1286984166080122912
 
 class Presence:
    def __init__(self) -> None:
